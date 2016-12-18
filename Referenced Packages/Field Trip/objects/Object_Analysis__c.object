@@ -80,6 +80,7 @@
         <externalId>false</externalId>
         <label>Filter</label>
         <length>1000</length>
+        <description>"This is a test for Josh"</description>
         <trackHistory>true</trackHistory>
         <trackTrending>false</trackTrending>
         <type>LongTextArea</type>
